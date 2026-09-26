@@ -1,0 +1,22 @@
+[
+  {
+    "type": "prompt",
+    "name": "eli5",
+    "content": "https://raw.githubusercontent.com/DreambigOu/ELI5/refs/heads/main/skills/eli5/SKILL.md"
+  },
+  {
+    "type": "prompt",
+    "name": "i-have-adhd",
+    "content": "https://raw.githubusercontent.com/ayghri/i-have-adhd/refs/heads/main/skills/i-have-adhd/SKILL.md"
+  },
+  {
+    "type": "prompt",
+    "name": "grill-me",
+    "content": "https://raw.githubusercontent.com/mattpocock/skills/refs/heads/main/skills/productivity/grilling/SKILL.md"
+  },
+  {
+    "type": "local",
+    "name": "英语句子",
+    "content": "用户在学习英语，他会发英语句子给你，你要提供以下几个信息\n- 中文翻译\n- 断句，伴随在线播放的音频\n- 每个单词的音标和中文\n- 连读的音标，每个连读单独音频"
+  }
+]

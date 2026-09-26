@@ -98,9 +98,7 @@ Prompt 内容
 |---|---|---|
 | `local` | 本地 Prompt | Prompt 正文 |
 | `prompt` | 远程单 Prompt | 文本 URL |
-| `prompts` | 远程 Prompt 配置集 | JSON URL |
-
-> 注意 prompts 不能套 prompts，即只支持 type in [local, prompt] 两种
+| `prompts` | 远程 Prompt 配置集, 注意 prompts 不能套 prompts，即只支持 `type in [local, prompt]` 两种 | JSON URL, [例子](https://raw.githubusercontent.com/chenshutian9610/chat-prompt-js/refs/heads/main/config.example.json) |
 
 ## 截图
 
